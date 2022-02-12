@@ -1,0 +1,20 @@
+Conceptos de bucles y Operadores Lógicos
+
+Ciclo FOR : Muchas veces es necesario en el flujo de un programa que un grupo de instrucciones se deba ejecutar repetidamete.
+            para ello existen los ciclos o blucles de control.
+            Uno de ellos es el ciclo for que consiste en inicializar un contador con el número de veces que el programa realizara el bloque de instrucciones.
+            La ejecucion continuará hasta que en el bloque de instrucciones al interior del coclo FOR consiga un disparador al alcanzar el numero de veces que el ciclo se ejecute.
+            En este momento el ciclo se interrumpe y salta a las instrucciones despues del ciclo FOR entregándole al programa los resultados calculados en el bucle.
+
+Operadores logicos:
+
+&& : En lógica matematica este operador es el operador AND, sirve para validar el estado de verdad o nó de dos expresiones.
+     Según esto AND compara los estados de verdad de las expresiones entre ellas (Tablas de la Verdad).
+     Por ej: Voy al cine si  No llueve Y (AND) tengo dinero para la entrada.
+     El ejemplo de arri.ba solo se cumplirá ( ir al cine) si y solo si se cumple la primera condición y tambien la segunda.
+|| : Es el operador OR en lógica matematica. 
+     Siguiendo el ejemplo anterior:
+        Voy al cine si  No llueve O (OR) tengo dinero para la entrada.
+        Le tocaria ir si se cumple alguno o todos los casos evaluados, es decir esta persona aun si no tiene dinero para la entrada deberá ir si no llueve. Le tocará conseguir la entrada como sea.
+! : Es el operador de negación lo que hace es que cualquier expresión lógica que tenga un valor lo cambia por su contrario booleano.
+    Si algo es verdadero ! lo evalua como falso y viceversa          
