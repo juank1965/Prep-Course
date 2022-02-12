@@ -1,0 +1,5 @@
+Arreglos 
+
+Array : Es una variable que puede almacenar no un datos sino muchos datos distintos en un mismo contenedor.
+        Mientras que una varible var let o una constante se asemejan a una caja unica para poner un solo dato,
+        el ARRAY se asemeja a una caja con varios compartimientos donde puede guardar un conjunto de datos de diferente valor y tipo.
