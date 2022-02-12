@@ -1,0 +1,16 @@
+Conceptos Generales de Javascript
+
+Variables: Son Contenedores podria decirse que cajitas a las que les ponemos un nombre la cual guardará un dato que podrá ser utilizado en el flujo de un programa informático
+
+Strings o cadenas de caracteres: E un tipo de dato en el que se almacenan caracteres alfa numéricos por ejemplo "Esto es un string" o "Juan Carlos" mi nombre representado en un string. Esta información puede guardarse en una variable que se consideraría tipo string para usarla en todo el flujo del programa.
+
+Funciones (Argumentos, return): Una función es un trozo de código de un programa que ejecuta instrucciones con el fin de devolver algo al flujo del programa que lo invocó. 
+                                Puede tener o no los llamados argumentos que son variables que reciben información del exterior de la función para que sean utilizadas dentro de ella para realizar las operaciones internas y devolver algo al programa.
+                                return es una sentencia dentro de una función que detiene la ejecución de la función devolviendo un resultado.
+
+Declaración o sentencia IF: Es una sentencia de bifurcación, se utiliza en programación para decirle al flujo del programa que puede tomas por dos caminos.
+                            IF significa si ocurre una condición entonces el flujo del programa ejecuta una acción o serie de acciones definidas,
+                            En caso contrario el programa saltará esa condición y ejecutará otra serie de acciones diferentes.
+
+Valor Booleano: Son variables que solo pueden tomar uno de dos valores TRUE verdadero ó FALSE Falso,
+                Tiene mucho que ver con el sentido binario de la información 1 Verdadero 0 falso.
