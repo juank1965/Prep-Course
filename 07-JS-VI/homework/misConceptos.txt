@@ -1,0 +1,6 @@
+Conceptos javascript
+
+Funciones Callback 
+
+Se conocen como Callback a aquellas funciones que son pasadas como argumento en otra funcion.
+La idea es que una Callback realice en el interior de la funci[on que la invoca acciones que complementes la funcionalidad al interior de esta.

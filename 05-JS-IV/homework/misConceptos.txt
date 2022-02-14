@@ -1,0 +1,19 @@
+OBJETO
+En JavaScript, un objeto es un entidad independiente un deposito donde guardar información con propiedades y tipos igual que en la vida real. por ejemplo una casa tiene un color, un diseño, un numero de cuartos, un material del que está hecha, etc. Del mismo modo, los objetos de JavaScript pueden tener propiedades que definan sus características.
+
+PROPIEDADES.
+Son características intrinsecas de un objeto. Definen la integralidad del Objeto que describen. En JavaScript son variables adjuntas al objeto creado.
+
+METODOS.
+En objetos JavaScript los metodos son propiedades que definen funciones que realizan los objetos. Por ejemplo un carro tiene un motor pero debe tener una funcion que enciende y apaga ese motor esa funcion es un metodo que podria llamarse encenderMotor.
+
+BUCLE FOR ... IN 
+Es el método que sirve para recorrer una a una cada una de las propiedades asignadas a un objeto en JavaScript y permitir listarlas u realizar operaciones con ellas.
+
+NOTACION DE PUNTO.
+Es la forma para acceder a alguna propiedad de un objeto en particular creado en JavaScript. Tiene la sintaxis:
+NombreObjeto.propiedad(key).
+
+NOTACION DE CORCHETES.
+Igual a la anterior pero con la siguiente sintaxis:
+NombreObjeto[propiedad(key)]

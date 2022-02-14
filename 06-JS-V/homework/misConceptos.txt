@@ -1,0 +1,8 @@
+PROTOTYPE JAVASCRIPT
+
+Todo en javascript e un objeto, cuando se crea cualquier objeto en javascript el lenguaje establece una propiedad prototype para cada objeto creado.
+Sea un objeto Obj1 creado con una serie de propiedades y metodos, y sea un objeto Obj2 creado con la palabra clave new seguida de Obj1, entonces el Obj2 heredara la etructura del Obj1 a causa de la propiedad prototype contenida en el objeto padre.
+
+_contructors_ (de clases)
+
+Constructors e una propiedad perteneciente a la propiedad prototype que contiene la estructura del Objeto de Clase creado, permite a los objetos creados pertenecientes a la clase heredar la estructura de la clase misma.
