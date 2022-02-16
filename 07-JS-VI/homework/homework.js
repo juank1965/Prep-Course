@@ -64,6 +64,7 @@ function filter(array) {
     }
   }
   return nuevoArray*/
+  /*programacion funcional*/
   let elementosQueComienzanConA = array.filter(function(elemento){
     return elemento[0]=== "a"
   }).map(function(elemento){
